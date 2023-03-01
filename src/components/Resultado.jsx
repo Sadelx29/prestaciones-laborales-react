@@ -1,5 +1,6 @@
 import React from "react";
 import { useState } from "react";
+import Mensualidad from "./Mensualidad";
 
 export const Resultado = () => {
   const [Mensualidad, setMensualidad] = useState([]);
